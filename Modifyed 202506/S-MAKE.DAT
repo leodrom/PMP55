@@ -1,0 +1,17 @@
+%F,     %P1,       %P2,       %N,       %R,                  %UR,                 %H,                 %UH
+{FName} {PName1}   {PName2}   {NickName}{RealName}           {RealName Ukr}       {HomePage Eng}      {HomePage Ukr}
+PMP-55, PMP-55,    ,          PMP-55,   PMP-55,              ПМП-55,              ../HOME/e-PMP-55,   ../HOME/u-PMP-55,
+Andy,   AndyMAX,   _AndyMAX,  Andy MAX, Andrij Maxymovych,   Андрій Максимович,   ../HOME/ANDY_MAX/e-Andy,     ../HOME/ANDY_MAX/u-Andy,
+Dans,   Dans,      _Dans,     Dans,     Sviatoslav Danyliv,  Святослав Данилів,   ../MAIN/e-Dans,     ../HOME/DANS/u-Dans,
+Dale,   Dale,      _Dale,     Dale,     Dmitri Zlatous,      Дмитро Златоуст,     ../MAIN/e-Dale,     ../HOME/DALE/u-Dale,
+Sara,   Sara,      _Sara,     Sara,     Lena Shnaider,       Лєна Шнайдер,         ../HOME/SARA/e-Sara,     ../HOME/SARA/u-Sara,
+Kosa,   Kosa,      _Kosa,     Kosa,     Dmitri Kosarev,      Дмитро Косарєв,       ../HOME/KOSA/e-Kosa,     ../HOME/KOSA/u-Kosa,
+Yura,   YuraCBT,   _YuraCBT,  Yura CBT, Yura Chobotok,       Юра Чоботок,         ../HOME/CHOBOTOK/e-Yura, ../HOME/CHOBOTOK/u-Yura,
+Pech,   Pechkin,   _Pechkin,  Pechkin,  Yura Pec,            Юра Пєц,             ../MAIN/e-Pech,     ../MAIN/u-Pech,
+Trusha, Trusha,    _Trusha,   Trusha,   Valera Trushevsky,   Валера Трушевський,  ../HOME/TRUSHA/e-Trusha,   ../HOME/TRUSHA/u-Trusha,
+First,  First,     _First,    First,    Ira Antashevska,     Іра Анташевська,     ../HOME/FIRST/e-First,    ../HOME/FIRST/u-First,
+Ira,    Ira,       _Ira,      Ira,      Ira Kanafotska,      Іра Канафоцька,      ../HOME/IRUSIA/e-Ira,   ../HOME/IRUSIA/u-Ira,
+Lesia,  Lesia,     _Lesia,    Lesia,    Lesia Kaljandruk,    Леся Кальяндрук,      ../HOME/LESIA/e-Lesia,    ../HOME/LESIA/u-Lesia,
+Zacna,  Zacna,     _Zacna,    Zacna,    Victoria Zacna,      Вікторія Зацна,      ../MAIN/e-Zacna,    ../HOME/u-Zacna,
+Malyj,  Malyj,     _Malyj,    Malyj,    Yura Malyj,          Юра Малий,           ../MAIN/e-Malyj,    ../MAIN/u-Malyj,
+THEEND, THE-END,   ,          THE END,  THE END,             КІНЕЦЬ,              ../MAIN/e-THEEND,   ../MAIN/u-THEEND,
